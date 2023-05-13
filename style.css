@@ -24,6 +24,8 @@
     position: relative;
     left: 50px;
 
+
+
 }
 
 .header ul {
@@ -137,16 +139,4 @@
     font-size: 30px;
     position: absolute;
     margin-top: -14px;
-}
-
-
-.about{
-    font-family: 'Roboto', sans-serif;
-    font-family: 'Roboto Mono', monospace;
-    font-family: 'Ubuntu', sans-serif;
-
-}
-.bold{
-    font-size: 60px;
-    font-weight: bold;
 }
