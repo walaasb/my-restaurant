@@ -24,8 +24,6 @@
     position: relative;
     left: 50px;
 
-
-
 }
 
 .header ul {
@@ -139,7 +137,6 @@
     font-size: 30px;
     position: absolute;
     margin-top: -14px;
-
 }
 
 
@@ -154,11 +151,8 @@
     font-weight: bold;
 }
 .resize{
-    margin-top: 70px;
+    margin-top: 25px;
     width: 1000px;
     position: absolute;
     margin-left: -214px;
 }
-
-
-
